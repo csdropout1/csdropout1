@@ -6,8 +6,7 @@
 
 ### Top Languages & Github Stats
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csdropout1&layout=compact)
- ![Top Langs](https://img.shields.io/badge/Top%20Languages-darkmode-blue?style=for-the-badge)
-<img src="https://github-readme-stats.vercel.app/api?username=csdropout1&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username=csdropout1&show_icons=true&theme=react" alt="github stats" width="45%" align="right"/>
 
 
 <!---
