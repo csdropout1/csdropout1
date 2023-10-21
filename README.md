@@ -5,7 +5,7 @@
 - 📫 How to reach me: If you really want to reach me, I am sure that you'll find a way ♥ ♥
 
 ### Top Languages & Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csdropout1&layout=compact&hide_border=true&bg_color=000000&text_color=ff007f)](https://github.com/csdropout1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csdropout1&layout=compact&hide_border=true&bg_color=000333&text_color=ffb6c1)](https://github.com/csdropout1/github-readme-stats)
 
 <!---
 csdropout1/csdropout1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
