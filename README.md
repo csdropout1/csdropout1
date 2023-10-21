@@ -4,9 +4,8 @@
 - 💞️ I’m looking to collaborate on creating a youtube channel actually - nothing to do with CS.
 - 📫 How to reach me: If you really want to reach me, I am sure that you'll find a way :)
 
-### Top Languages
+### Top Languages & Github Stats
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csdropout1&layout=compact)
-#### Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=csdropout1&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
 
 
