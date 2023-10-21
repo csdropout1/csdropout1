@@ -4,9 +4,8 @@
 - 💞️ I’m looking to collaborate on creating a youtube channel actually - nothing to do with CS.
 - 📫 How to reach me: If you really want to reach me, I am sure that you'll find a way :)
 
-
-
-- csdropout64@gmail.com x.x
+### Top Languages
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csdropout1&layout=compact)
 
 <!---
 csdropout1/csdropout1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
