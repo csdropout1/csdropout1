@@ -2,7 +2,7 @@
 - 👀 Some things I do here and there, feel free to check them out!
 - 🌱 I’m currently learning how to use unity to create video games.
 - 💞️ I’m looking to collaborate on creating a youtube channel actually - nothing to do with CS.
-- 📫 How to reach me: If you really need to reach me, you'll find a way :)
+- 📫 How to reach me: If you really want to reach me, I am sure that you'll find a way :)
 
 
 
