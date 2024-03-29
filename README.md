@@ -1,4 +1,4 @@
-- 👋 @csdropout1 ~ aka the one and only microl. As of 2023, no one else has that name !!!
+- 👋 @csdropout1 ~ aka the one and only microl. As of 2024, no one else has that name !!!
 - 👀 Some things I do here and there, feel free to check them out! Star some of them to help my much needed ego boost! 
 - 🌱 I’m currently learning how to build basic GUI with python as well as unity to create video games.
 - 💞️ I’m looking to collaborate on creating a youtube channel actually - nothing to do with CS (but with video games too if you are a creative writer/artist).
